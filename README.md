@@ -10,12 +10,6 @@
   <img src="https://img.shields.io/badge/status-shipping-brightgreen?style=for-the-badge&labelColor=0D1117" alt="status"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nightfury12901/nightfury12901/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-</p>
-
-> 🐍 The snake above eats your contribution graph — it auto-animates once you set up the [snake workflow](#-snake-game-setup) below.
-
 ---
 
 ### 🧭 About Me
@@ -54,39 +48,6 @@
 | [**portweb**](https://github.com/nightfury12901/portweb) | My personal portfolio site | Astro |
 | [**roastmylp**](https://github.com/nightfury12901/roastmylp) | Rates a website's design and UX from just its link | TypeScript |
 
-> 💡 Tip: keep each repo's "description" field on GitHub in sync with these — it's what shows under your pinned cards on your profile.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nightfury12901&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=nightfury12901&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightfury12901&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
-</p>
-
----
-
-### 🏆 Trophy Case
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nightfury12901&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=1" alt="trophies"/>
-</p>
-
----
-
-### 🎮 Snake Game Setup
-
-The eating-snake animation near the top needs a one-time GitHub Actions setup (it's free and runs automatically):
-
-1. In your `nightfury12901/nightfury12901` repo, create `.github/workflows/snake.yml`
-2. Paste in the [Platane/snk](https://github.com/Platane/snk) action config (linked repo has copy-paste examples)
-3. It generates `github-contribution-grid-snake-dark.svg` on an `output` branch every 24h, which the image above already points to
-
 ---
 
 ### 🤝 Connect With Me
@@ -95,9 +56,6 @@ The eating-snake animation near the top needs a one-time GitHub Actions setup (i
   <a href="https://github.com/nightfury12901"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/chinmay-mishra-a4aa80288"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://chinmayport.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-
 </p>
-
-<p align="center"><i>⭐ from repos you find interesting — it helps a lot!</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0F2027&height=120&section=footer"/>
