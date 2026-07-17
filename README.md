@@ -1,16 +1,20 @@
-<h1 align="center">Hey, I'm Nightfury 👋</h1>
-
-<h3 align="center">Full-Stack Developer · AI Products · IoT Hardware</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=220&section=header&text=NIGHTFURY&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Dev%20%7C%20AI%20Products%20%7C%20IoT%20Hardware&descAlignY=55&descSize=20"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+products+that+solve+real+problems;Full-Stack+Dev+%7C+IoT+Hardware+Engineer;React+%E2%80%A2+Flask+%E2%80%A2+ESP32+%E2%80%A2+TensorFlow;Turning+ideas+into+shipped+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+products+that+solve+real+problems;Full-Stack+Dev+%7C+IoT+Hardware+Engineer;React+%E2%80%A2+Flask+%E2%80%A2+ESP32+%E2%80%A2+TensorFlow;Shipping+things%2C+not+just+starting+them;he%2Fhim+%E2%80%A2+Entrepreneur+in+the+making" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/nightfury12901"><img src="https://img.shields.io/github/followers/nightfury12901?label=Follow&style=social" alt="GitHub followers"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/he%2Fhim-blue?style=flat-square" alt="pronouns"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-building-brightgreen?style=flat-square" alt="status"/></a>
+  <a href="https://github.com/nightfury12901"><img src="https://img.shields.io/github/followers/nightfury12901?label=Follow&style=for-the-badge&logo=github&color=58A6FF&labelColor=0D1117" alt="GitHub followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=nightfury12901&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/badge/status-shipping-brightgreen?style=for-the-badge&labelColor=0D1117" alt="status"/>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nightfury12901/nightfury12901/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+</p>
+
+> 🐍 The snake above eats your contribution graph — it auto-animates once you set up the [snake workflow](#-snake-game-setup) below.
 
 ---
 
@@ -57,13 +61,33 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nightfury12901&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nightfury12901&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nightfury12901&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=nightfury12901&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightfury12901&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightfury12901&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
 </p>
+
+> ⚠️ Note: the old streak-stats badge used a `herokuapp.com` URL — Heroku killed free hosting, so that domain is dead. Swapped to `streak-stats.demolab.com`, which is the actively maintained version.
+
+---
+
+### 🏆 Trophy Case
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nightfury12901&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=1" alt="trophies"/>
+</p>
+
+---
+
+### 🎮 Snake Game Setup
+
+The eating-snake animation near the top needs a one-time GitHub Actions setup (it's free and runs automatically):
+
+1. In your `nightfury12901/nightfury12901` repo, create `.github/workflows/snake.yml`
+2. Paste in the [Platane/snk](https://github.com/Platane/snk) action config (linked repo has copy-paste examples)
+3. It generates `github-contribution-grid-snake-dark.svg` on an `output` branch every 24h, which the image above already points to
 
 ---
 
@@ -71,10 +95,11 @@
 
 <p align="left">
   <a href="https://github.com/nightfury12901"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  
   <a href="https://www.linkedin.com/in/chinmay-mishra-a4aa80288"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://chinmayport.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 </p>
 
 <p align="center"><i>⭐ from repos you find interesting — it helps a lot!</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0F2027&height=120&section=footer"/>
