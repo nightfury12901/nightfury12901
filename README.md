@@ -43,14 +43,14 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**ALLURA**](https://github.com/nightfury12901/ALLURA) | _Add a one-line description on GitHub_ | TypeScript |
-| [**Dermify**](https://github.com/nightfury12901/Dermify) | _Add a one-line description on GitHub_ | TypeScript |
-| [**aurashot**](https://github.com/nightfury12901/aurashot) | _Add a one-line description on GitHub_ | TypeScript |
-| [**pixelforgeportraits**](https://github.com/nightfury12901/pixelforgeportraits) | _Add a one-line description on GitHub_ | TypeScript |
-| [**portweb**](https://github.com/nightfury12901/portweb) | _Add a one-line description on GitHub_ | Astro |
-| [**roastmylp**](https://github.com/nightfury12901/roastmylp) | _Add a one-line description on GitHub_ | TypeScript |
+| [**ALLURA**](https://github.com/nightfury12901/ALLURA) | AI-powered video editor | TypeScript |
+| [**Dermify**](https://github.com/nightfury12901/Dermify) | Detects skin diseases from a single image using AI | TypeScript |
+| [**aurashot**](https://github.com/nightfury12901/aurashot) | AI portrait generator with multiple stylized templates | TypeScript |
+| [**ShieldScan**](https://github.com/nightfury12901/shieldscan) | Scans code for security issues via live URL, ZIP, or GitHub repo | TypeScript |
+| [**portweb**](https://github.com/nightfury12901/portweb) | My personal portfolio site | Astro |
+| [**roastmylp**](https://github.com/nightfury12901/roastmylp) | Rates a website's design and UX from just its link | TypeScript |
 
-> 💡 Tip: fill in each repo's "description" field on GitHub — it auto-populates the table above's context when people click through, and shows under your pinned cards too.
+> 💡 Tip: keep each repo's "description" field on GitHub in sync with these — it's what shows under your pinned cards on your profile.
 
 ---
 
@@ -71,10 +71,10 @@
 
 <p align="left">
   <a href="https://github.com/nightfury12901"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <!-- Add your LinkedIn / portfolio / Twitter links below -->
-
+  
   <a href="https://www.linkedin.com/in/chinmay-mishra-a4aa80288"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://chinmayport.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+
 </p>
 
 <p align="center"><i>⭐ from repos you find interesting — it helps a lot!</i></p>
