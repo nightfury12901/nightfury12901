@@ -69,8 +69,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightfury12901&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
 </p>
 
-> ⚠️ Note: the old streak-stats badge used a `herokuapp.com` URL — Heroku killed free hosting, so that domain is dead. Swapped to `streak-stats.demolab.com`, which is the actively maintained version.
-
 ---
 
 ### 🏆 Trophy Case
